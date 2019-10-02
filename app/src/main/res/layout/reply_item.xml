@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image_profile_item_reply"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/ic_person"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/username_item_reply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/image_profile_item_reply"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Username" />
+
+    <TextView
+        android:id="@+id/time_item_reply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:textSize="12sp"
+        app:layout_constraintStart_toEndOf="@+id/image_profile_item_reply"
+        app:layout_constraintTop_toBottomOf="@+id/username_item_reply"
+        tools:text="Just Now" />
+
+    <TextView
+        android:id="@+id/comment_item_reply"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:textColor="@color/primary_text"
+        android:textSize="16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/time_item_reply"
+        app:layout_constraintTop_toBottomOf="@+id/time_item_reply"
+        tools:text="Nice photo dude...Really liked it..." />
+
+    <ImageButton
+        android:id="@+id/like_btn_item_reply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@null"
+        app:layout_constraintEnd_toStartOf="@+id/likes_count_item_reply"
+        app:layout_constraintTop_toBottomOf="@+id/comment_item_reply"
+        app:srcCompat="@drawable/ic_like_border" />
+
+    <ImageButton
+        android:id="@+id/like_pressed_btn_item_reply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:background="@null"
+        app:layout_constraintEnd_toStartOf="@+id/likes_count_item_reply"
+        app:layout_constraintTop_toBottomOf="@+id/comment_item_reply"
+        app:srcCompat="@drawable/ic_like_full" />
+
+    <TextView
+        android:id="@+id/likes_count_item_reply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:textColor="@color/secondary_text"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="@+id/comment_item_reply"
+        app:layout_constraintTop_toBottomOf="@+id/comment_item_reply"
+        tools:text="32 Likes" />
+
+    <View
+        android:id="@+id/divider_horizontal_item_reply"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="12dp"
+        android:background="@color/divider"
+        app:layout_constraintEnd_toEndOf="@+id/likes_count_item_reply"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/comment_item_reply"
+        app:layout_constraintTop_toBottomOf="@+id/likes_count_item_reply" />
+
+
+
+</android.support.constraint.ConstraintLayout>

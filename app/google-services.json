@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816861344801",
+    "firebase_url": "https://befikre-46530.firebaseio.com",
+    "project_id": "befikre-46530",
+    "storage_bucket": "befikre-46530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816861344801:android:d412309392fe221a",
+        "android_client_info": {
+          "package_name": "com.seemantshekhar.befikre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816861344801-5f5764bk124vsj5vl43kiam3qh9dk0f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seemantshekhar.befikre",
+            "certificate_hash": "fe0d89ab1e8fc783ecdb7cc5856f238289c67543"
+          }
+        },
+        {
+          "client_id": "816861344801-15368d4td4rhu6q2rt37vnfjre0rppfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG7TwOi_0qh6igcBmltgwBG-hMHBl482k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816861344801-15368d4td4rhu6q2rt37vnfjre0rppfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

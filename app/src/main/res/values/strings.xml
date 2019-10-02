@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Befikre</string>
+    <string name="app_logo_desc">Befikre Text logo</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome_back_logo">Welcome Back Logo</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="dont_have_an_accnt">Donn\'t have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="already_have_acc">Already have an account?</string>
+    <string name="chat">Chat</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="follow">Follow</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="following">Following</string>
+    <string name="post">POST</string>
+    <string name="post_desc_hint">Say something about this photo...</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="message">MESSAGE</string>
+    <string name="Comment">Comments</string>
+    <string name="reply">Reply</string>
+    <string name="replies">Replies</string>
+    <string name="likes">Likes</string>
+    <string name="save">SAVE</string>
+    <string name="change_profile_pic">Change Profile Pic</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="bio">BIO</string>
+    <string name="log_out">Log Out</string>
+    <string name="coming_soon">Coming Soon...</string>
+    <string name="best">The best is yet to come.</string>
+    <string name="notifications">Notifications</string>
+    <string name="view_all_comments">View all comments</string>
+</resources>
