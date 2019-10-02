@@ -1,5 +1,5 @@
 # Befikre
-Befikre is a social media. Many of its features are inspired from Instagram.
+Befikre is a social media app. Many of its features are inspired from Instagram.
 
 Rules to contribute to this project:
 1. Only generate a pull request when you are confident enough that your contribution is a valid contribution.
