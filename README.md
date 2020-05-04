@@ -3,7 +3,7 @@ Befikre is a social media app. Many of its features are inspired from Instagram.
 
 
 ## Get it on Google Play
-[Befikre link] (https://play.google.com/store/apps/details?id=com.seemantshekhar.befikre)
+[Befikre link](https://play.google.com/store/apps/details?id=com.seemantshekhar.befikre)
 
 ##
 Rules to contribute to this project:
