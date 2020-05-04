@@ -3,7 +3,9 @@ Befikre is a social media app. Many of its features are inspired from Instagram.
 
 
 ## Get it on Google Play
-[Befikre]https://play.google.com/store/apps/details?id=com.seemantshekhar.befikre
+[Befikre link] (https://play.google.com/store/apps/details?id=com.seemantshekhar.befikre)
+
+##
 Rules to contribute to this project:
 1. Only generate a pull request when you are confident enough that your contribution is a valid contribution.
 2. Give an appropriate title to your commit and a brief description about the changes you made in pull request.
