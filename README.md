@@ -1,5 +1,5 @@
 # Befikre
-Befikre is a social media app. Many of its features are inspired from Instagram.
+Befikre is a social media mobile app buit in android native environment. Many of its features are inspired from Instagram.
 Befikre is a place where you let yourself be free. Follow your friends and family to see what they’re up to, and discover accounts from all over the world that are sharing things you love. Join the community and express yourself by sharing all the moments of your day — the highlights and everything in between, too.
 
 
