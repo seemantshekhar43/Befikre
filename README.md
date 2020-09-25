@@ -18,6 +18,7 @@ Befikre is a place where you let yourself be free. Follow your friends and famil
 - Post photo updates from moments in your life
 - Receive notifications when someone likes or comments on your post
 - Follow your friends, celebrities, actors, athletes, and singers for live updates
+- Like, Comment and Reply on posts
 
 ## App preview
 |                                                    Dashboard                                                     |                                                    Profile                                                    |                                                    Search                                                    |                                              Reply                                              |
