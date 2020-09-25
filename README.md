@@ -6,22 +6,20 @@ Befikre is a place where you let yourself be free. Follow your friends and famil
 ## Get it on Google Play
 [Befikre](https://play.google.com/store/apps/details?id=com.seemantshekhar.befikre)
 
-##
-Rules to contribute to this project:
-1. Only generate a pull request when you are confident enough that your contribution is a valid contribution.
-2. Give an appropriate title to your commit and a brief description about the changes you made in pull request.
-3. A valid contribution means:
+## Technology Stack
+- Android
+- Java
+- Firebase Realtime Database
+- Firebase Cloud Functions
 
-    a) The feature added by you should be unique and new.
+## Features:
+- Upload photos from your phone library or take pictures straight from your camera and share them with your followers
+- Show what you want on your profile
+- Post photo updates from moments in your life
+- Receive notifications when someone likes or comments on your post
+- Follow your friends, celebrities, actors, athletes, and singers for live updates
 
-    b) The feature should be relevant to the app agenda.
-    
-    c) It should not contain any malicious element.
-    
-    d) It should be copyright free.
-    
-    e) Code should be strictly written in JAVA only(no KOTLIN).
-    
-    f) Proper comments should be provided in the code to make it more readable.
-
-4. If your contribution meets the above condition, I would happily merge your pull request. :)
+## App preview
+|                                                    Analysis                                                     |                                                    Nutritiona Information                                                    |                                                    Image                                                    |                                              Camera                                              |
+| :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| ![analysis](screenshots/analysis.jpg "Analysis") | ![Nutritional Information](screenshots/nutritional_informat_iDubV.jpg "Nutritional Information") | ![Image](screenshots/image.jpg "Image") | ![Camera](screenshots/camera.jpg "Camera")|
